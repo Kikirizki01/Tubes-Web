@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url = 'https://journal.herokuapp.com/api/post';
+const url = 'https://jounal.herokuapp.com/api/post';
 
 export default class API {
     //to get all the post from the server
